@@ -1,6 +1,6 @@
-let Variable_Number = 10
+let Variable_Number = 1001
 let variable_String = "primer ejercicio"
 let Variable_Boolean = true
-console.log("La variable del Tipo Number es: " + Variable_Number);
-console.log("La variable del Tipo String es: " + variable_String); 
-console.log("La variable del Tipo Boolean es: " + Variable_Boolean);
+console.log(Variable_Number);
+console.log(variable_String); 
+console.log(Variable_Boolean);
